@@ -1,4 +1,3 @@
-
-echeang,	IT109
-rosiexrosie,	pink
-elizabeth,	cheang
+**Enter your desired username and passoword --> username, password**
+Jane123, Doe123
+rosiex3, rosesarerosie43!
