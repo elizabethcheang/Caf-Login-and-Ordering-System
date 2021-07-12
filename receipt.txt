@@ -1,0 +1,12 @@
+--------------LE CAFE RECEIPT--------------
+	ITEM	PRICE
+
+	Chocolate Croissaint	3.5
+	Sweet Cream Caramel Drizzle Iced Coffee	5.0
+	Iced Americano	4.25
+-------------------------------------------------------
+Cashier: Holly Jane
+Payment: Credit
+
+-------------------------------------------------------
+Total Cost: 12.75
