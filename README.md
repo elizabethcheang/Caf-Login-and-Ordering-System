@@ -1,6 +1,6 @@
 # Caf-Login-and-Ordering-System
 Python based program with a built-in login system that gathers user input response to result in a receipt of the selected items.
-------
+
 An ordering system based off of a cafe. Please take the following steps to ensure the code runs smoothly!
 Files needed:
 cake_order.py
